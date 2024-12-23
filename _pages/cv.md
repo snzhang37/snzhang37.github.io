@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+University of Science and Technology of China (USTC)
+Bachelor of Science in Mathematics (Minor in Computer Science)
+Expected Graduation: [2026]
+GPA: [3.92 / 4.3]
+Rank: [19th/181](Among all students majoring in mathematics at USTC)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Research Assistant Prof Zuqin Zhu’s Research Group, USTC 
+• Conducted theoretical analysis to establish the NP-hardness of hitless reconfiguration problem. Designed and analyzed optimization algorithms for hitless reconfiguration problem. 
+• Designed and implemented sophisticated simulation code to model complex systems and environments
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python(Pytorch)
+  * C++
+  * Matlab
+  * LaTex
+* English:TOEFL 99(MyBestScore 102)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- **On the TPE Design to Efficiently Accelerate Hitless Reconfiguration of OCS-Based DCNs**  
+  Authors: Qian Lv, Yuxiao Zhang, **Shuoning Zhang**, Ruoxing Li, Ke Meng, Bowen Zhang, Fuguang Huang, Xiaoliang Chen, Zuqing Zhu  
+  *IEEE JSAC Special Issue on Next-Generation Optical Communications and Networking*, Accepted, 2024.
+
+- **DRL-TPE: Learning to Optimize TPE of Optical Interconnects to Accelerate Hitless Reconfiguration of OCS-Based DCNs**  
+  Authors: Xiaoliang Chen, Wenbang Zheng, **Shuoning Zhang**, Xiaoyan Dong, Ke Meng, Zuqing Zhu  
+  *Accepted for Oral Presentation at the 2025 Optical Fiber Communications Conference (OFC 2025)*.
+
+Academic Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+Ultra-Large-Scale Optical Fiber Networks: Protection and Restoration Techniques  
+*Advised by Prof. Zuqin Zhu, USTC*  
+- Led a USTC-funded project (¥20,000) to develop protection and restoration techniques for ultra-large-scale optical networks.  
+- Oversaw the design of experiments to evaluate network resilience and optimized reconfiguration algorithms for faster service restoration.
+
+Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+• Zhang Zongzhi Sci-Tech Scholarship(2023) 
+• Outstanding Student Scholarship, Grade 2(2024) 
+• CThe Chinese Mathematics Competitions, 1st prize in Anhui Province(2024)
+
