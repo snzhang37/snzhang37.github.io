@@ -53,7 +53,7 @@ Ultra-Large-Scale Optical Fiber Networks: Protection and Restoration Techniques
 
 Honors
 ======
-• Zhang Zongzhi Sci-Tech Scholarship(2023) 
-• Outstanding Student Scholarship, Grade 2(2024) 
-• CThe Chinese Mathematics Competitions, 1st prize in Anhui Province(2024)
+- Zhang Zongzhi Sci-Tech Scholarship(2023) 
+- Outstanding Student Scholarship, Grade 2(2024) 
+- CThe Chinese Mathematics Competitions, 1st prize in Anhui Province(2024)
 
