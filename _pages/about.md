@@ -10,6 +10,6 @@ I am a third-year undergraduate student at the University of Science and Technol
 
 Under the guidance of Prof. Zuqing Zhu, I have worked on designing efficient algorithms for hitless reconfiguration in optical networks, which has been accepted by IEEE JSAC. Currently, I lead a project on optical network protection and restoration technologies, while contributing to theoretical research on network reconfiguration. I aim to pursue further studies and contribute to real-world optimization challenges through innovative research.
 
-You can find my CV here:
+You can find my CV here: https://snzhang37.github.io/cv/
 
 
