@@ -15,7 +15,7 @@ University of Science and Technology of China (USTC)\
 Bachelor of Science in Mathematics (Minor in Computer Science)\
 Expected Graduation: [2026]\
 GPA: [3.92 / 4.3]\
-Rank: [19th/181](Among all students majoring in mathematics at USTC)\
+Rank: [19th/181](Among all students majoring in mathematics at USTC)
 
 Work experience
 ======
