@@ -19,8 +19,8 @@ Rank: [19th/181(Among all students majoring in mathematics at USTC)]
 
 Work experience
 ======
-Research Assistant Prof Zuqin Zhu’s Research Group, USTC 
-• Conducted theoretical analysis to establish the NP-hardness of hitless reconfiguration problem. Designed and analyzed optimization algorithms for hitless reconfiguration problem. 
+Research Assistant Prof Zuqin Zhu’s Research Group, USTC \
+• Conducted theoretical analysis to establish the NP-hardness of hitless reconfiguration problem. Designed and analyzed optimization algorithms for hitless reconfiguration problem. \
 • Designed and implemented sophisticated simulation code to model complex systems and environments
 
   
