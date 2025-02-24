@@ -2,8 +2,8 @@
 
 | 姓名 | 个人主页 |
 | ---- | ---- |
-| 徐宏力 | [个人主页](http://staff.ustc.edu.cn/~xuhongli/int/)
- |
+| 徐宏力 | [个人主页](http://staff.ustc.edu.cn/~xuhongli/int/)|
+
 ### 助教信息
 
 | 姓名 | 联系方式 |
